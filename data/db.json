@@ -1,0 +1,45 @@
+{
+  "records": [],
+  "user": [
+    {
+      "id": null,
+      "name": "ella"
+    },
+    {
+      "id": 1,
+      "name": "ferdi"
+    },
+    {
+      "id": 0,
+      "name": "dominik"
+    },
+    {
+      "id": 1,
+      "name": "edwin"
+    },
+    {
+      "id": 1,
+      "name": "monique"
+    },
+    {
+      "id": 1,
+      "name": "Monique"
+    },
+    {
+      "id": 1,
+      "name": "MOnIquE"
+    },
+    {
+      "id": 1,
+      "name": "MONIquE"
+    },
+    {
+      "id": 2,
+      "name": "MONIQuE"
+    },
+    {
+      "id": 3,
+      "name": "MONIQUE"
+    }
+  ]
+}
